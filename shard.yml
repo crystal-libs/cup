@@ -1,0 +1,14 @@
+name: cup
+version: 0.1.0
+
+authors:
+  - gxfr <dxrz@protonmail.com>
+
+crystal: 1.1.1
+
+license: MIT
+
+description: |
+  Crystal URL Parser
+  
+repository: "https://github.com/crystal-libs/cup"
